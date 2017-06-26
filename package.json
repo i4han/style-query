@@ -1,0 +1,13 @@
+{
+    "name": "style-query",
+    "version": "0.0.17",
+    "description": "style query",
+    "main": "style-query.js",
+    "files": [ "style-query.js" ],
+    "author": "Isaac Han <isaac@hi16.ca>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/i4han/style-query.git"
+    },
+    "license": "GPL-2.0"
+}

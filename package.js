@@ -1,7 +1,7 @@
 
 Package.describe({
     summary: 'Style-query: JQuerified stylesheet library.',
-    "version": "0.0.16",
+    "version": "0.0.17",
     git: 'https://github.com/i4han/style-query.git',
     documentation: 'README.md'
 });
